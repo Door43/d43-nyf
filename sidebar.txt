@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[nyf:home|Door43 (nyf)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-nyf|d43-nyf repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-nyf/archive/master.zip|d43-nyf.zip]]
+
+**Recent Changes**
+{{changes>ns = nyf}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/nyf|Ethnologue data]]
+
